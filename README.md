@@ -1,0 +1,4 @@
+PhonegapFacebookPluggin
+=======================
+
+PhongegapFacebookPluggin
